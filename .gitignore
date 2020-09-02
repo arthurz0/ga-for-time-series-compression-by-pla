@@ -1,0 +1,15 @@
+*.aux
+*.out
+*.log
+*.synctex.gz
+*.bbl
+*.blg
+*.brf
+*.dvi
+*.out.ps
+*.lof
+*.lot
+*.pdf
+*.toc
+code/.ipynb_checkpoints/
+code/data/
