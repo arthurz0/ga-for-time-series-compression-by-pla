@@ -1,5 +1,4 @@
 name,dataset,consideredLength,remaining_points,pop_size,offspring_size,loop,iterations,runs,mean_best_mse,description
-experiment2020-03-16_17-55-07-852,subject103_6,10000,251,200,200,false,175,100,0.3699440190362362,version: 02.07.2019  the initial population contains no special Individuals
 experiment2020-03-17_05-06-20-088,Donoho-Johnstone,2048,52,200,200,true,36,100,5.219349443309335,version: 02.07.2019  the initial population contains no special Individuals
 experiment2020-03-17_05-10-06-943,MALLAT_,8192,206,200,200,true,144,100,0.005958944016782918,version: 02.07.2019  the initial population contains no special Individuals
 experiment2020-03-17_06-04-08-269,subject103_5,10000,251,200,200,true,175,100,0.0649427639447758,version: 02.07.2019  the initial population contains no special Individuals
@@ -18,7 +17,6 @@ experiment2020-03-19_15-30-36-759,Rock,10000,251,200,200,true,175,100,0.00619403
 experiment2020-03-19_18-14-17-334,HandOutlines,20000,501,200,200,true,350,100,2.0332239861031544e-5,version: 02.07.2019  the initial population contains special Individuals: visvalingam_squarederror  swing_filter_number  ramer_douglas_peucker 
 experiment2020-03-20_01-05-16-593,Phoneme,20000,501,200,200,true,350,100,0.3684041168735143,version: 02.07.2019  the initial population contains special Individuals: visvalingam_squarederror  swing_filter_number  ramer_douglas_peucker 
 experiment2020-03-20_08-08-53-161,StarLightCurves,20000,501,200,200,true,350,100,0.0001628048042186505,version: 02.07.2019  the initial population contains special Individuals: visvalingam_squarederror  swing_filter_number  ramer_douglas_peucker 
-experiment2020-03-21_02-17-46-646,StarLightCurves,20000,501,200,200,false,350,100,0.00025668569957330677,version: 02.07.2019  the initial population contains special Individuals: visvalingam_squarederror  swing_filter_number  ramer_douglas_peucker
 experiment2020-04-07_13-46-21-630,Donoho-Johnstone,2048,52,200,200,false,62,100,5.732949015748595,version: 02.07.2019  the initial population contains no special Individuals
 experiment2020-04-07_13-48-55-814,MALLAT_,8192,206,200,200,false,246,100,0.012178641274434156,version: 02.07.2019  the initial population contains no special Individuals
 experiment2020-04-07_14-24-35-907,subject103_5,10000,251,200,200,false,300,100,0.08708059096779876,version: 02.07.2019  the initial population contains no special Individuals
@@ -55,8 +53,6 @@ experiment2020-04-11_21-52-52-726,StarLightCurves,20000,200,200,200,true,700,50,
 experiment2020-04-12_14-21-40-004,Donoho-Johnstone,2048,20,200,200,false,144,50,6.599765096700377,version: 02.07.2019  the initial population contains no special Individuals
 experiment2020-04-12_15-01-37-766,subject103_5,10000,100,200,200,false,700,50,0.13119799978783972,version: 02.07.2019  the initial population contains no special Individuals
 experiment2020-04-12_15-55-19-832,subject103_6,10000,100,200,200,false,700,50,0.41672153854116906,version: 02.07.2019  the initial population contains no special Individuals
-experiment2020-04-12_16-51-57-156,Ham,10000,100,200,200,false,700,50,0.5227746494354283,version: 02.07.2019  the initial population contains no special Individuals
-experiment2020-04-13_06-57-50-094,Donoho-Johnstone,2048,20,200,200,false,144,50,6.349757134328397,version: 02.07.2019  the initial population contains special Individuals: visvalingam_squarederror  swing_filter_number  ramer_douglas_peucker 
 experiment2020-04-13_08-30-52-177,Donoho-Johnstone,2048,20,200,200,false,308,50,6.175113810906037,version: 02.07.2019  the initial population contains special Individuals: visvalingam_squarederror  swing_filter_number  ramer_douglas_peucker 
 experiment2020-04-13_08-35-58-144,MALLAT_,8192,81,200,200,false,1229,50,0.06692034990481815,version: 02.07.2019  the initial population contains special Individuals: visvalingam_squarederror  swing_filter_number  ramer_douglas_peucker 
 experiment2020-04-13_09-52-18-003,subject103_5,10000,100,200,200,false,1500,50,0.12287951248373055,version: 02.07.2019  the initial population contains special Individuals: visvalingam_squarederror  swing_filter_number  ramer_douglas_peucker 
