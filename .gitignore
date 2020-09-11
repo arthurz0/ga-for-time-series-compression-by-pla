@@ -9,7 +9,6 @@
 *.out.ps
 *.lof
 *.lot
-*.pdf
 *.toc
 code/.ipynb_checkpoints/
 code/data/
